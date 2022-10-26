@@ -30,14 +30,19 @@ nav {
 @keyframes top {
   from {}
   to {}
+ 
 }
 
 @keyframes middle {
   from {}
   to {}
+ 
 }
 
 @keyframes bottom {
   from {}
   to {}
+}
+#top{
+  transform: rotate(45deg);
 }
